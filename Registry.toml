@@ -539,6 +539,7 @@ some amount of consideration when choosing package names.
 29a6e085-ba6d-5f35-a997-948ac2efa89a = { name = "Wavelets", path = "W/Wavelets" }
 29b9fc01-2d52-5901-8357-88823a8aad60 = { name = "FancyDiagnostics", path = "F/FancyDiagnostics" }
 29fbe528-8531-5c35-ac08-d2ebca7928d6 = { name = "SALSA", path = "S/SALSA" }
+2a09ff82-1be9-11e9-2ab7-19964783a84b = { name = "TextUserInterfaces", path = "T/TextUserInterfaces" }
 2a33fa5d-563c-51b9-8885-f62d16798090 = { name = "DriftDiffusionPoissonSystems", path = "D/DriftDiffusionPoissonSystems" }
 2a4eff87-6e1e-5ceb-a32e-3bc6a5c2833f = { name = "Immerse", path = "I/Immerse" }
 2a67aa01-6213-50f9-bb91-c167b72acb78 = { name = "GoogleCloudObjectStores", path = "G/GoogleCloudObjectStores" }
